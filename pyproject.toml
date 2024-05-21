@@ -1,5 +1,5 @@
 [project]
-name = "jpeg"
+name = "jpegtran"
 version = "0.0.2"
 authors = [
   { name="Saw Jing Wen", email="shotnothing@protonmail.ch" },
