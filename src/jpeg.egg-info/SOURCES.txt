@@ -1,8 +1,0 @@
-LICENSE
-README.md
-pyproject.toml
-src/jpeg/__init__.py
-src/jpeg.egg-info/PKG-INFO
-src/jpeg.egg-info/SOURCES.txt
-src/jpeg.egg-info/dependency_links.txt
-src/jpeg.egg-info/top_level.txt
